@@ -7,7 +7,7 @@ date: 2018-10-10
 
 [comment]: ## Arbitrary analogue transfer-function implementation
 
-*Supervisor: Assoc. prof. Arnfinn A. Eielsen*
+[comment]: *Supervisor: Assoc. prof. Arnfinn A. Eielsen*
 
 This project aims to design and construct a circuit capable of implementing any second-order analogue transfer function (within reasonable limits). The analogue circuit will be configured with digital potentiometers and set by a micro-controller or PC.
 

@@ -7,7 +7,7 @@ date: 2018-10-11
 
 [comment]: ## Optimal dither signals for improved resolution and accuracy in digital-analog converters used for closed-loop control
 
-*Supervisor: Assoc. prof. Arnfinn A. Eielsen*
+[comment]: *Supervisor: Assoc. prof. Arnfinn A. Eielsen*
 
 This project will look at the generation of dithering signals to improved switched conversion systems.
 
