@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+name: Arnfinn A. Eielsen
+markdown: kramdown
+
+theme: jekyll-theme-slate
