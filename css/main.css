@@ -1,7 +1,7 @@
 body {
   margin: 60px auto;
   width: 70%;
-  font-family:'Neuton', 'Serif';
+  font-family:'Sura', 'Serif';
   font-size: 1.25em;
 }
 
@@ -49,6 +49,7 @@ footer {
 ul.posts {
   margin: 0px;
   font-size: 1.25em;
+  font-family:'Lato', 'Sans-Serif';
 }
 
 ul.posts li {
