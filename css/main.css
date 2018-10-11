@@ -2,7 +2,7 @@ body {
   margin: 60px auto;
   width: 70%;
   font-family:'Sura', 'Serif';
-  font-size: 1.25em;
+  font-size: 1.125em;
 }
 
 img {
@@ -11,8 +11,12 @@ img {
   background: none;
 }
 
+ol {
+  font-size: 1.125em;
+}
+
 ul {
-  font-size: 1.25em;
+  font-size: 1.125em;
 }
 
 ul li {
@@ -37,7 +41,7 @@ span.posts {
 }
 
 p {
-  font-size: 1.25em;
+  font-size: 1.125em;
   color: #333;
 }
 
@@ -48,7 +52,7 @@ footer {
 
 ul.posts {
   margin: 0px;
-  font-size: 1.25em;
+  font-size: 1.125em;
   font-family:'Lato', 'Sans-Serif';
 }
 
