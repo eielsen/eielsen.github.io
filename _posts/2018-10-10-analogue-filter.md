@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arbitrary analogue transfer-function implementation"
-supervisor: Assoc. prof. Arnfinn A. Eielsen
+supervisor: A/Prof Arnfinn A. Eielsen
 date: 2018-10-10
 ---
 

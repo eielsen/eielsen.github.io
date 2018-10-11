@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Improved displacement estimation in homodyne Michelson interferometers"
+supervisor: A/Prof Arnfinn A. Eielsen
 use_math: true
 date: 2018-10-10
 ---
 
 [comment]: ## Improved displacement estimation in homodyne Michelson interferometers
 
-*Supervisor: Assoc. prof. Arnfinn A. Eielsen*
+[comment]: *Supervisor: Assoc. prof. Arnfinn A. Eielsen*
 
 This project will look at laser interferometry for length measurements.
 

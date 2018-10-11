@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Universal interfacing and measuring the performance of digital-analog converters"
+supervisor: A/Prof Arnfinn A. Eielsen
 date: 2018-10-10
 ---
 
 [comment]: ## Universal interfacing and measuring the performance of digital-analog converters
 
-*Supervisor: Assoc. prof. Arnfinn A. Eielsen*
+[comment]: *Supervisor: Assoc. prof. Arnfinn A. Eielsen*
 
 This project focusses on implementing protocols for various interfaces for data transfer to digital-to-analog converters, and circuits for measuring their performance.
 

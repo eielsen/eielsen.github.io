@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Designing, building and evaluating visible light data communication system for underwater applications"
+supervisor: A/Prof Arnfinn A. Eielsen
 date: 2018-10-10
 ---
 
 [comment]: ## Designing, building and evaluating visible light data communication system for underwater applications
 
-*Supervisor: Assoc. prof. Arnfinn A. Eielsen*
+[comment]: *Supervisor: Assoc. prof. Arnfinn A. Eielsen*
 
 This project will focus on short range optical communications under water.
 

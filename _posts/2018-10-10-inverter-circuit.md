@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Designing and building a power inverter (DC to AC)"
+supervisor: A/Prof Arnfinn A. Eielsen
 date: 2018-10-10
 ---
 
 [comment]: ## Designing and building a power inverter (DC to AC)
 
-*Supervisor: Assoc. prof. Arnfinn A. Eielsen*
+[comment]: *Supervisor: Assoc. prof. Arnfinn A. Eielsen*
 
 This project focusses on the design, building and testing of an inverter circuit (DC to AC).
 
