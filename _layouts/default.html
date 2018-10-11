@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- Google fonts -->
+			<link href='https://fonts.googleapis.com/css?family=Neuton' rel='stylesheet'>
+			<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<!-- MathJax -->
+			{% if page.use_math %}
+      	{% include mathjax_support %}
+    	{% endif %}
+		</head>
+		<body>
+			<div class="container">
+
+			{{ content }}
+
+			</div>
+			<!--<footer>
+
+			</footer>-->
+		</body>
+	</html>
