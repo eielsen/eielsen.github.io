@@ -1,0 +1,58 @@
+body {
+  margin: 60px auto;
+  width: 70%;
+  font-family:'Neuton', 'Serif';
+  font-size: 1.25em;
+}
+
+img {
+  width: 60%;
+  border: none;
+  background: none;
+}
+
+ul {
+  font-size: 1.25em;
+}
+
+ul li {
+  list-style-type: square;
+}
+
+a {
+  text-decoration: none;
+  color: #52527a;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 2.25em;
+}
+
+span.posts {
+  color: #c2c2d6;
+}
+
+p {
+  font-size: 1.25em;
+  color: #333;
+}
+
+footer {
+  border-top: 1px solid #d5d5d5;
+  font-size: .8em;
+}
+
+ul.posts {
+  margin: 0px;
+  font-size: 1.25em;
+}
+
+ul.posts li {
+  list-style: none;
+  margin: 0px;
+  padding: 10px;
+}
