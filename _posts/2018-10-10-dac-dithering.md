@@ -9,13 +9,13 @@ date: 2018-10-11
 
 [comment]: *Supervisor: Assoc. prof. Arnfinn A. Eielsen*
 
-This project will look at the generation of dithering signals to improved switched conversion systems.
+This project will look at the generation of dithering signals used to improve the response of switched conversion systems.
 
-Physical implementations of digital-to-analog converters (DACs) introduce various non-ideal effects, including element mismatch, thermal and semiconductor noise, slew-rate limitations, and glitches caused by non-ideal transistor switching. These effects come in addition to the fundamental error sources of aliasing and quantisation that occur in a digital signal processing system, due to discretisation in both in time and value.
+Physical implementations of digital-to-analogue converters (DACs) introduce various non-ideal effects, including element mismatch, thermal and semiconductor noise, slew-rate limitations, and glitches caused by non-ideal transistor switching. These effects come in addition to the fundamental error sources of aliasing and quantisation that occur in a digital signal processing system, due to discretisation in both in time and value.
 
 ![A DAC prototype.](/images/prototype_dac.jpg "A DAC prototype")
 
-When applying a DAC for high precision motion control, DAC-errors deteriorate the achieved performance. Hence, it is of interest to mitigate them. Aliasing is reduced by reconstruction filtering and interpolation, and quantisation error is eliminated using small-scale noise dithering. Element mismatch can be compensated for using several methods, such as dynamic element matching or physical calibration, and slewing can be partially reduced reduced by oversampling.
+When applying a DAC for high precision motion control, DAC-errors deteriorate the achieved performance. Hence, it is of interest to mitigate them. Aliasing is reduced by reconstruction filtering and interpolation, and quantisation error is eliminated using small-scale noise dithering. Element mismatch can be compensated for using several methods, such as dynamic element matching or physical calibration, and slewing can be partially reduced by oversampling.
 
 One method that has not been studied in detail yet is large-scale dithering, which can mitigate element mismatch, as well as glitches, and possibly other effects. Work is needed to find ways to maximise the effect of such dither signals, and to study the what happens when dither is applied to closed-loop systems.
 
