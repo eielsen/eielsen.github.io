@@ -15,6 +15,8 @@ The last few years have seen rapid developments in the area of power electronics
 
 Silicon carbide (SiC) semiconductors are a fairly recent addition to the mass-produced transistor market. A SiC-based inverter circuit should be more efficient and able to operate at higher switching frequencies as compared to a traditional silicon (Si) based inverters. This should enable the overall efficiency to improve. In addition, there should be a significant size and weight reduction of the inverter. One of the main challenges with a SiC-based inverter is the high switching speed, making it potentially difficult to drive them.
 
+![SiC benefits.](/images/2ndGenLossComparison.jpg "SiC benefits")
+
 A complementary project has been created to design new inverter control algorithms, and these can potentially be tested on the resulting prototype.
 
 **The exact scope, content and outcomes of the project will be agreed upon with the students considering their background and interests.**
