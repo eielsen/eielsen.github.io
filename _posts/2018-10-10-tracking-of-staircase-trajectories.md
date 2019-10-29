@@ -9,8 +9,6 @@ date: 2018-10-10
 
 [comment]: *Supervisor: Assoc. prof. Arnfinn A. Eielsen*
 
-*Supervisor: A/Prof Arnfinn A. Eielsen*
-
 This project will focus ....
 
 Background:
