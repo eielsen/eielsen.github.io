@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Optimal dither signals for improved resolution and accuracy in DACs used for closed-loop control"
+title: "Optimal dither signals for improved resolution and accuracy in DACs"
 supervisor: A/Prof Arnfinn A. Eielsen
 date: 2018-10-11
 ---
