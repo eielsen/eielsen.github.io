@@ -2,7 +2,7 @@
 layout: post
 title: "Designing and evaluating a control law for tracking staircase reference trajectories"
 supervisor: A/Prof Arnfinn A. Eielsen
-date: 2018-10-10
+date: 2019-10-29
 ---
 
 [comment]: ## Designing and evaluating a control law for tracking staircase reference trajectories
