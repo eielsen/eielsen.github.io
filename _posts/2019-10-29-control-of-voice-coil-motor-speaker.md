@@ -1,22 +1,36 @@
-## Arbitrary analogue transfer-function implementation
+---
+layout: post
+title: "Designing and evaluating a control law for tracking staircase reference trajectories"
+supervisor: A/Prof Arnfinn A. Eielsen
+date: 2019-10-29
+---
 
-*Supervisor: Assoc. prof. Arnfinn A. Eielsen*
+[comment]: ## Designing and evaluating a control law for tracking staircase reference trajectories
 
-This project aims to design and construct a circuit capable of implementing any second-order analogue transfer function (within reasonable limits). The analogue circuit will be configured with digital potentiometers and set by a micro-controller or PC.
+[comment]: *Supervisor: Assoc. prof. Arnfinn A. Eielsen*
 
-In some precision and high bandwidth applications digital signal processing introduces too much distortion and noise, and it may also have insufficient bandwidth. Hence, analogue processing can be a preferable option. One of the main shortcomings with regard to analogue circuitry is the inability to easily change the parameters that determine the response. Many common filter topologies does not allow for easy tuning of transmission zeroes, and it is often cumbersome to tune the poles as well. This makes it difficult (impossible) to implement e.g. model matching control laws, and PID-control is therefore almost always the non-optimal default for analogue control. A programmable analogue filter is desirable as it allows for quick tuning and re-tuning for different processes and applications, without having to make a custom circuit every time.
 
-The arbitrary transfer function will be used for laboratory implementation of low-noise analogue filters and high-speed control systems.
+
+This project will focus ....
+
+Background:
+
+Application:
 
 **The exact scope, content and outcomes of the project will be agreed upon with the students considering their background and interests.**
 
 ### Expected outcomes
-- Reviewing of implementation methods (state-variable filters, gyrators).
-- Simulation of possible options (using SPICE or Spectre).
-- Designing and building suitable circuits.
-- Developing software for control.
+- Design of a control law for voice coil motor and speaker membrane system
+
 
 #### Resources
-- Digital and analog circuit components and ICs.
-- Manufacturing of printed circuit boards.
-- Micro-controller development kit (with Embedded Coder support).
+- MATLAB/Simulink
+- Speaker and amplifier
+- Hardware-in-the-loop platform (National Instruments PXI-crate or similar)
+- Displcament sensort (laser interferemoter or capacitive probe)
+
+#### References
+1. https://en.wikipedia.org/wiki/Voice_coil
+
+
+
