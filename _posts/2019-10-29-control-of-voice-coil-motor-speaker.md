@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Designing and evaluating a control law for tracking staircase reference trajectories"
+title: "Designing and evaluating a control law for a voice coil motor and speaker membrane system"
 supervisor: A/Prof Arnfinn A. Eielsen
 date: 2019-10-29
 ---
 
-[comment]: ## Designing and evaluating a control law for tracking staircase reference trajectories
+[comment]: ## Designing and evaluating a control law for a voice coil motor and speaker membrane system
 
 [comment]: *Supervisor: Assoc. prof. Arnfinn A. Eielsen*
 
