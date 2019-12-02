@@ -17,7 +17,7 @@ Physical implementations of digital-to-analogue converters (DACs) introduce vari
 
 When applying a DAC for high precision motion control, DAC-errors deteriorate the achieved performance. Hence, it is of interest to mitigate them. Aliasing is reduced by reconstruction filtering and interpolation, and quantisation error is eliminated using small-scale noise dithering. Element mismatch can be compensated for using several methods, such as dynamic element matching or physical calibration, and slewing can be partially reduced by oversampling.
 
-One method that has not been studied in detail yet is large-scale dithering, which can mitigate element mismatch, as well as glitches, and possibly other effects. Work is needed to find ways to maximise the effect of such dither signals, and to study the what happens when dither is applied to closed-loop systems.
+One method that has not been studied in detail yet is large-scale dithering, which can mitigate element mismatch, as well as glitches, and possibly other effects. Work is needed to find ways to maximise the effect of such dither signals, and to study what happens when dither is applied to closed-loop systems.
 
 ![Effects of applied dither](/images/dither_effects.png "Effects of applied dither")
 
