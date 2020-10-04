@@ -2,7 +2,7 @@
 layout: post
 title: "Optimal dither signals for improved resolution and accuracy in DACs"
 supervisor: A/Prof Arnfinn A. Eielsen
-date: 2018-10-11
+date: 2020-10-04
 ---
 
 [comment]: ## Optimal dither signals for improved resolution and accuracy in digital-analog converters used for closed-loop control
@@ -30,7 +30,7 @@ One method that has not been studied in detail yet is large-scale dithering, whi
 * Learning how to measure linearity and performance of converters.
 * Using existing and developing new models of non-linear and non-ideal effects in digital-analog converters.
 * Determining how well the models fit with actual digital-analog converter behaviour (model validation).
-* Understanding how different dither signals impact the distortion in digital-analog converters; that is determine the model properties.
+* Understanding how different dither signals impact the distortion in digital-analog converters; determine the model properties.
 * Studying how the introduction of feedback control impacts the effect of the dither signals.
 * Using optimisation techniques to find optimal dither signals that minimise distortion and error (applicable frameworks can be model predictive control or various input shaping methods).
 
