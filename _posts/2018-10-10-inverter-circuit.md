@@ -2,7 +2,7 @@
 layout: post
 title: "Designing and building a power inverter (DC to AC)"
 supervisor: A/Prof Arnfinn A. Eielsen
-date: 2018-10-10
+date: 2020-07-10
 ---
 
 [comment]: ## Designing and building a power inverter (DC to AC)
@@ -11,7 +11,7 @@ date: 2018-10-10
 
 This project focusses on the design, building and testing of an inverter circuit (DC to AC).
 
-The last few years have seen rapid developments in the area of power electronics, including new switching devices, new topologies and new control algorithms. With new renewable energy generation targets being set as well as emerging capabilities due to improved battery technology, inverters are key to transparent conversion between power distribution domains. Understanding how to build cheap, small, reliable and efficient inverter circuits are key to maximising the utility and performance of these devices.
+The last few years have seen rapid developments in the area of power electronics, including new switching devices, new topologies and new control algorithms. With new renewable energy generation targets being set as well as emerging capabilities due to improved battery technology, inverters are key to transparent conversion between power distribution domains. Understanding how to build cheap, small, reliable and efficient inverter circuits is key to maximising the utility and performance of these devices.
 
 Silicon carbide (SiC) semiconductors are a fairly recent addition to the mass-produced transistor market. A SiC-based inverter circuit should be more efficient and able to operate at higher switching frequencies as compared to a traditional silicon (Si) based inverters. This should enable the overall efficiency to improve. In addition, there should be a significant size and weight reduction of the inverter. One of the main challenges with a SiC-based inverter is the high switching speed, making it potentially difficult to drive them.
 
