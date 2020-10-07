@@ -2,7 +2,7 @@
 layout: post
 title: "Universal interfacing and measuring the performance of digital-analog converters"
 supervisor: A/Prof Arnfinn A. Eielsen
-date: 2018-10-10
+date: 2020-07-10
 ---
 
 [comment]: ## Universal interfacing and measuring the performance of digital-analog converters
@@ -12,6 +12,8 @@ date: 2018-10-10
 This project focusses on implementing protocols for various interfaces for data transfer to digital-to-analog converters, and circuits for measuring their performance.
 
 Fair testing and comparison of digital-analog converters is challenging. There are many different interfaces for data transfer to the devices from the control unit. These include parallel buses, serial peripheral interface (SPI), inter-integrated circuit (I²C) bus, inter-IC sound (I²S) bus, and the JESD204 data converter serial interface. The devices also have different voltage output ranges or they have current sourced outputs. This makes is difficult to connect different devices to the same control unit (e.g. micro-controller), and to the same measuring device for signal comparison. In order to simplify testing, an interfacing device that implements the most common data busses (and the deviations from standards that are common among manufacturers) is essential. Furthermore, a low-distortion conditioning amplifier with variable gain is needed to match input and output voltage ranges. A trans-impedance amplifier that converts a current signal to a voltage signal is also necessary in some cases.
+
+State-of-the-art instrumentation for the purpose has been developed by the supervisor and is availble at UiS.
 
 **The exact scope, content and outcomes of the project will be agreed upon with the students considering their background and interests.**
 
