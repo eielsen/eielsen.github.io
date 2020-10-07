@@ -3,7 +3,7 @@ layout: post
 title: "Improved displacement estimation in homodyne Michelson interferometers"
 supervisor: A/Prof Arnfinn A. Eielsen
 use_math: true
-date: 2018-10-10
+date: 2020-0710-10
 ---
 
 [comment]: ## Improved displacement estimation in homodyne Michelson interferometers
@@ -16,7 +16,7 @@ Interferometry can be used to measure length displacements with high accuracy an
 
 ![SIOS SP-S Series --- example of interferometer used for displacement measurements.](/images/sp_s_series.png "SIOS SP-S Series")
 
-Displacement measurement using optical interferometry is mainly done using variants of the Michelson interferometer, using highly coherent and polarised light from a laser source. Resolution below 1 nm is routinely achieved in suitable environmental conditions, but the accuracy of the measurements are impacted due to several non-ideal effects. Improved estimation methods can rectify some of these accuracy problems.
+Displacement measurement using optical interferometry is mainly done using variants of the Michelson interferometer, using highly coherent and polarised light from a laser source. Resolution below 1 nm is routinely achieved in suitable environmental conditions, but the accuracy of the measurements are impacted due to several non-ideal effects, such as thermal drift in components causing misalignment and variable amplification, optical abberations as well as air flow and turbulence. Improved estimation methods can rectify some of these accuracy problems.
 
 ![Optical diagram for a Michelson interferometer](/images/michelson_optical_diagram_03.png "Michelson interferometer diagram")
 
