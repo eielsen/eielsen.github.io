@@ -3,7 +3,7 @@ layout: post
 title: "Improved displacement estimation in homodyne Michelson interferometers"
 supervisor: A/Prof Arnfinn A. Eielsen
 use_math: true
-date: 2020-0710-10
+date: 2020-07-10
 ---
 
 [comment]: ## Improved displacement estimation in homodyne Michelson interferometers
