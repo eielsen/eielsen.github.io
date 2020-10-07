@@ -2,14 +2,14 @@
 layout: post
 title: "Designing and controlling a power inverter (DC to AC)"
 supervisor: A/Prof Arnfinn A. Eielsen
-date: 2018-10-10
+date: 2020-07-10
 ---
 
 [comment]: ## Designing and controlling a power inverter (DC to AC)
 
 [comment]: *Supervisor: Assoc. prof. Arnfinn A. Eielsen*
 
-This project focusses on modelling inverters for simulation and controlling the quality of the inverter output.
+This project focusses on modelling inverters for simulation, and controlling the quality of the inverter output.
 
 The last few years have seen rapid developments in the area of power electronics, including new switching devices, new topologies and new control algorithms. With new renewable energy generation targets being set as well as emerging capabilities due to improved battery technology, inverters are key to transparent conversion between power distribution domains. Reducing energy loss due to the non-ideal switching action (causing distortion) in these devices is therefore a primary concern.
 
