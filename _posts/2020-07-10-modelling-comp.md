@@ -18,24 +18,24 @@ Traditionally (white-box) physics-based modelling and (grey-/black-box) linear t
 Due to the recent advances in analysis of neural networks, it is desirable to evaluate different modelling and identification approaches in order to determine the efficacy of these in a model-based control engineering context.
 
 This project aims to compare
-    • physics-based modelling and parameter identification, and/or
-    • linear time-invariant and/or time-varying modelling and identification
-    • artificial neural networks
+- physics-based modelling and parameter identification, and/or
+- linear time-invariant and/or time-varying modelling and identification
+- artificial neural networks
 as modelling and identification approaches applied to a thermodynamic system.
 
 **The exact scope, content and outcomes of the project will be agreed upon with the students considering their background and interests.**
 
 ### Expected outcomes
-    • learning how to use at least one “traditional” modelling method
-    • learning how to preform system identification given modelling method
-    • learning about artificial neural networks and how to train them, applying the method of [Nar and Sastry, 2019]
-    • learning about persistency of excitation in system identification and neural networks
-    • learning about experiment design and optimal excitation
-    • studying methods for model validation, robustness evaluation and comparison of models
+- learning how to use at least one “traditional” modelling method
+- learning how to preform system identification given modelling method
+- learning about artificial neural networks and how to train them, applying the method of [Nar and Sastry, 2019]
+- learning about persistency of excitation in system identification and neural networks
+- learning about experiment design and optimal excitation
+- studying methods for model validation, robustness evaluation and comparison of models
 
 ### Resources
-    • computer with suitable software (e.g. MATLAB/Simulink).
-    • training data from a thermodynamic system
+- computer with suitable software (e.g. MATLAB/Simulink).
+- training data from a thermodynamic system
 
 #### References
 [Nar and Sastry, 2019] Nar, K & Sastry, S, Persistency of Excitation for Robustness of Neural Networks, 2019 (https://arxiv.org/abs/1911.01043)
