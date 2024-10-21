@@ -2,7 +2,7 @@
 layout: post
 title: "Thermal control of an integrated circuit using a Peltier-element"
 supervisor: A/Prof Arnfinn A. Eielsen
-date: 2024-21-10
+date: 2024-10-21
 ---
 
 [comment]: ## Thermal control of an integrated circuit using a Peltier-element
