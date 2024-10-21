@@ -17,7 +17,7 @@ Integrated circuits are typically very sensitive to temperature changes, and cha
 
 CERN has recently completed the work on a [analogue-to-digital converter (ADC) based multimeter](https://ohwr.org/project/opt-adc-10k-32b-1cha/-/wikis/home) with similar requirements. In their designs a Peltier-element is used to control the temperature of the ADC package. A [Peltier-element](https://en.wikipedia.org/wiki/Thermoelectric_cooling) is a type of heat-pump that uses the thermoelectric to either heat or cool one of the sides of the element, ideal for small and slow temperature control applications.
 
-![Peltier-element temperature control set-up.](peltier_adc.png "Peltier-element temperature control set-up.")
+![Peltier-element temperature control set-up.](/images/peltier_adc.png "Peltier-element temperature control set-up.")
 
 In this project a complete control system for a Peltier-element will be developed. This includes temperature probes, amplifiers for the Peltier-element, instrumentation for reading temperature and outputting voltage, process modelling, control law design, and real-time implementation on a micro-controller.
 
