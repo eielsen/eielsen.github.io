@@ -1,6 +1,13 @@
-## Thermal control of an integrated circuit using a Peltier-element
+---
+layout: post
+title: "Thermal control of an integrated circuit using a Peltier-element"
+supervisor: A/Prof Arnfinn A. Eielsen
+date: 2024-21-10
+---
 
-*Supervisor: Assoc. prof. Arnfinn A. Eielsen*
+[comment]: ## Thermal control of an integrated circuit using a Peltier-element
+
+[comment]: *Supervisor: Assoc. prof. Arnfinn A. Eielsen*
 
 This project focusses on managing heat and ensuring constant temperature for an integrated circuit package.
 
